@@ -2,7 +2,7 @@
 ## Programación sobre redes - 3° D
 
 ### Práctica Formativa Obligatoria 2
-**Sistema de Gestión de Tareas con API REST y SQLite**
+**Sistema de Gestión de Tareas**
 
 **Alumno:** Damián Andrés Clausi  
 **Profesor:** Germán Ríos
