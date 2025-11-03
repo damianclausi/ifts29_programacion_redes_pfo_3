@@ -1,7 +1,7 @@
 # IFTS 29 - Tecnicatura en Desarrollo de Software
 ## Programación sobre redes - 3° D
 
-### Práctica Formativa Obligatoria 2
+### Práctica Formativa Obligatoria 3
 **Sistema de Gestión de Tareas**
 
 **Alumno:** Damián Andrés Clausi  
